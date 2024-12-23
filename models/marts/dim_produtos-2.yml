@@ -1,0 +1,45 @@
+models:
+  - name: dim_produtos
+    description: Dimensão de produtos do sistema PDV Northwind.
+    columns:
+      - name: PK_PRODUTO
+        description: Para preencher
+              
+      - name: FK_FORNECEDOR
+        description: Para preencher
+
+      - name: FK_CATEGORIA
+        description: Para preencher
+
+      - name: NM_PRODUTO
+        description: Para preencher
+
+      - name: QUANTIDADE_POR_UNIDADE
+        description: Para preencher
+
+      - name: PRECO_POR_UNIDADE
+        description: Para preencher
+
+      - name: UNIDADE_EM_ESTOQUE
+        description: Para preencher
+
+      - name: UNIDADE_POR_PEDIDO
+        description: Para preencher
+
+      - name: NIVEL_DE_PEDIDO
+        description: Para preencher
+
+      - name: EH_DISCONTINUADO
+        description: Para preencher
+
+      - name: NOME_CATEGORIA
+        description: Para preencher
+
+      - name: NOME_FORNECEDOR
+        description: Para preencher
+
+      - name: CIDADE_FORNECEDOR
+        description: Para preencher
+
+      - name: PAIS_FORNECEDOR
+        description: Para preencher
