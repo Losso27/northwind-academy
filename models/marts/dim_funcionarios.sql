@@ -4,4 +4,4 @@ with
         from {{ref('int_vendas__self_join_funcionarios')}}
     )
 
-select * from dim_funcionarioss
+select * from dim_funcionarios
